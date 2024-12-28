@@ -10,7 +10,7 @@ module.exports = {
      */
     botname: process.env.BotName || "Qᴜᴇᴇɴ ᴀɴʏᴀ ᴠ2",
     footer: process.env.Footer || "© 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 𝐐𝐮𝐞𝐞𝐧 𝐀𝐧𝐲𝐚 𝐁𝐨𝐭",
-    prefa: process.env.PREFIX || process.env.Prefix || "-",
+    prefa: process.env.PREFIX || process.env.Prefix || ".",
     themeemoji: process.env.ThemeEmoji || "🎐",
 
     /**
@@ -30,7 +30,7 @@ module.exports = {
     warns: Number(process.env.Warn_Limits) || 3,
     cooldown: Number(process.env.Cooldown_Timer_Seconds) || 5, // default cooldown time per command in seconds
     mongoUrl: process.env.MongoDB || "YOUR_MONGODB_URL",
-    sessionId: process.env.SESSION_ID || "YOUR_SESSION_ID",
+    sessionId: process.env.SESSION_ID || "i54PF0LVDo6G6_A_N_Y_A_V_2_aIttp6F",
 
     
     
